@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="150dp"
+    android:minHeight="120dp"
+    android:updatePeriodMillis="4320000"
+    android:initialLayout="@layout/activity_birthday_widget"
+    android:configure="com.hesham.widget.birthdaywidget.ConfigureBirthdayWidgetActivity"
+    android:resizeMode= "horizontal|vertical"
+    android:previewImage="@drawable/icon"
+
+    >
+
+</appwidget-provider>

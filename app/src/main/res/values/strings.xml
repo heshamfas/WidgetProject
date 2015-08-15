@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Widget</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_configuration_lable">Configure Birthday Widget</string>
+</resources>
